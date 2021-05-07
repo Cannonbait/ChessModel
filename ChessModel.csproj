@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>ChessModel</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Cannonbait</Authors>
+    <Company>OpeningMentor</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+
+  </PropertyGroup>
+
+</Project>
